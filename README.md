@@ -6,4 +6,4 @@ When you press the up key, you can turn the block. Also, when you press the spac
 If you clear the lines, you can get point. In 1 line, you get 100 points. When you reach 500, the level will increase.
 Good luck!
 ## Preview
-
+![녹음 2025-05-10 172004 (2)](https://github.com/user-attachments/assets/045a304d-65b7-42a9-ab62-a6e9564cfc28)
